@@ -1,6 +1,11 @@
 Created  Matrimony app using Angular V16 and Angular Material
 Used standalone components, routing, service
 This app displays list of profiles and individual profile details
+
+
+https://github.com/Ressimen/matrimony.com/assets/28858286/028a2e90-de38-49e7-820f-559be24d967e
+
+
 ![HomePage](https://github.com/Ressimen/matrimony.com/assets/28858286/d06bb786-f655-4f52-86d3-5a8892545129)
 
 ![HomePage2](https://github.com/Ressimen/matrimony.com/assets/28858286/ce0f33b9-6c7c-4cca-ba62-84019436b47d)
